@@ -1,4 +1,30 @@
-### Hi there 👋
+### amitGawande.json
+
+{
+  "name": "amit gawande",
+  "pronoun": "he/him"
+  "description": "reader, writer, coder",
+  "languages": "java, golang, node.js, python",
+  "interests": {
+    "personal": [
+      "writing",
+      "fiction",
+      "music",
+      "technology"
+    ],
+    "professional": [
+        "design",
+        "development",
+        "scale"
+    ]
+  },
+  "social": {
+    "website": "https://amitgawande.com",
+    "twitter": "_am1t",
+    "micro.blog": "amit",
+    "@mail": "amit.w.gawande@gmail.com"
+  }
+}
 
 <!--
 **am1t/am1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
