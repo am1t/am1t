@@ -20,7 +20,7 @@
   },
   "social": {
     "website": "https://amitgawande.com",
-    "twitter": "_am1t",
+    "mastodon": "@amit@me.dm",
     "micro.blog": "amit",
     "@mail": "amit.w.gawande@gmail.com"
   }
